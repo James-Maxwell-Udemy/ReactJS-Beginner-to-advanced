@@ -1,0 +1,36 @@
+.navbar {
+  height: 70px;
+  width: 100%;
+  padding: 0 100px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #1a1920;
+}
+
+.logo-container {
+  height: 100%;
+  width: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-links-container {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.nav-link {
+  padding: 10px 15px;
+  color: #fff;
+  font-weight: Medium;
+  font-size: 24px;
+}
+
+.logo {
+  height: 45px;
+  width: auto;
+}
